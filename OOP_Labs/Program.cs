@@ -1,6 +1,7 @@
 ﻿using Lab1;
 using System.Text;
 
+
 Console.OutputEncoding = UTF8Encoding.UTF8;//підключаємо кодування для коректного виведення на консоль
 List<ComponentsInfo> list = new();//створюємо список елементів типу нашого класу
 
